@@ -39,4 +39,4 @@ The model made predictions on the following test audio commands:
 
 The audio command classification model demonstrated the ability to predict command labels for given audio inputs. Further improvements, such as expanding the dataset and exploring advanced machine learning models, could enhance the accuracy of the model.
 
-Feel free to explore the notebook and experiment with different audio commands to see how well the model performs. If you have any questions or suggestions, please let me know!
+
